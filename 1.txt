@@ -1,0 +1,82 @@
+{
+  "1rupeecoin": {
+    "1993": {
+      "*": true,
+      "plain": true,
+      "^": true,
+      ".": true
+    },
+  "1994": {
+      "*": true,
+      "plain": true,
+      "^": true,
+      ".": true
+    },
+  "1995": {
+      "*": true,
+      "plain": true,
+      "^": true,
+      ".": true
+    },
+  "1996": {
+      "*": true,
+      "plain": true,
+      "^": true,
+      ".": true
+    },
+  "1997": {
+      "*": true,
+      "plain": true,
+      "^": true,
+      ".": true
+    },
+  "1998": {
+      "*": true,
+      "plain": true,
+      "^": true,
+      ".": true
+    },
+  "1999": {
+      "*": true,
+      "plain": true,
+      "^": true,
+      ".": true
+    },
+  "2000": {
+      "*": true,
+      "plain": true,
+      "^": true,
+      ".": true
+    },
+  "2001": {
+      "*": true,
+      "plain": true,
+      "^": true,
+      ".": true
+    },
+  "2002": {
+      "*": true,
+      "plain": true,
+      "^": true,
+      ".": true
+    },
+  "2003": {
+      "*": true,
+      "plain": true,
+      "^": true,
+      ".": true
+    },
+  "2004": {
+      "*": true,
+      "plain": true,
+      "^": true,
+      ".": true
+    },
+  "2005": {
+      "*": true,
+      "plain": true,
+      "^": true,
+      ".": true
+    }
+  }
+}
